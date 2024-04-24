@@ -1,0 +1,8 @@
+{
+"max-instances": "10",
+"uuid": "desklet@syke9p3",
+"name": "First Desklet",
+"description": "This is my first desklet",
+"version": "0.1",
+"prevent-decorations": true
+}
